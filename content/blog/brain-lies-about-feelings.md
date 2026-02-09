@@ -5,56 +5,50 @@ description: "The brain is surprisingly bad at identifying the real cause of its
 tags: ["meditation", "psychology"]
 ---
 
-Here's something I've been sitting with for a while. The brain is really, genuinely bad at understanding the causal mechanism of its own inner workings. Like, embarrassingly bad.
+The brain is genuinely bad at understanding the causal mechanisms of its own inner workings. You'd think the system that generates your feelings would at least know why it's generating them. But it often doesn't. And what it does instead is worse: it confabulates. It produces a plausible-sounding story that feels true, and you go with it.
 
-You'd think the system that generates your feelings would at least know why it's generating them. But it often doesn't. And what it does instead is worse: it makes something up. It confabulates. It gives you a plausible-sounding story that feels true, and you just go with it.
+## A simple example
 
-## The insult example
+Someone insults you. Something lands. You feel bad. What's actually happening might be a wave of shame, a sense of unworthiness, maybe something old getting triggered.
 
-Say someone insults you. Something lands. You feel bad. Now, what's actually happening might be something like: you feel a wave of shame, a sense of unworthiness, maybe something old getting triggered.
+But that's not what your brain reports. It skips past the internal stuff and instead says: "I feel bad because that person is a bad person with bad intentions."
 
-But that's not what your brain reports. Your brain skips right past the internal stuff and instead says: "I feel bad because that person is a bad person. They have bad intentions. They shouldn't have said that."
+If someone asks why you're upset, you'll give reasons. Logical, external-facing reasons. "People shouldn't talk to each other that way. It's disrespectful. It says something about their character." All very reasonable sounding. All completely missing the point.
 
-And if someone asks you why you're upset, you'll give reasons. Logical, external-facing reasons. "Well, I think people shouldn't talk to each other like that. It's disrespectful. It says something about their character." All very reasonable sounding. All completely missing the point.
-
-The actual cause was something like "I feel unworthy." But that's vulnerable and messy and hard to articulate, especially in the moment. So the brain just... routes around it. It gives you an outward-facing explanation that's way more comfortable to hold.
+The actual cause was "I feel unworthy." But that's vulnerable and hard to articulate, especially in the moment. So the brain routes around it and hands you an outward-facing explanation that's far more comfortable to hold.
 
 ## Why this happens
 
-I think a few things are going on.
+A few things are going on.
 
-First, a lot of what we feel operates below the threshold of clear awareness. The emotional reaction happens fast, it happens deep, and by the time the conscious, verbal mind gets involved, the raw feeling has already been packaged into a story. You're not working with the feeling itself anymore. You're working with the narrative your brain built around it.
+Most of what we feel operates below the threshold of clear awareness. The emotional reaction happens fast, it happens deep, and by the time the conscious verbal mind gets involved, the raw feeling has already been packaged into a narrative. You're not working with the feeling itself anymore. You're working with the story your brain built around it.
 
-Second, sometimes it's literally your first time experiencing a particular flavor of emotion. Or your internal resolution is just low. Like, you know something feels off, but you can't zoom in enough to see what it actually is. So you grab the nearest plausible explanation and call it a day.
+Sometimes you've never experienced that particular flavor of emotion before, or your internal resolution is too low to identify it. You know something feels off, but you can't pinpoint what. So you grab the nearest plausible explanation.
 
-And third, some truths are just hard to admit. "I feel unworthy" is a much harder thing to sit with than "that person is a jerk." One requires you to look inward. The other lets you point outward. Guess which one the brain prefers.
+And some truths are just hard to admit. "I feel unworthy" requires looking inward. "That person is a jerk" lets you point outward. The brain has a clear preference.
 
-## Where it gets tricky
+## It's everywhere
 
-This pattern doesn't just show up with insults. It's everywhere.
+This isn't limited to insults. The same pattern runs through most emotional reactions.
 
 You feel anxious at work, and your brain tells you it's because your manager is unreasonable. Maybe. Or maybe you're afraid of being seen as incompetent, and that fear is what's actually running the show.
 
 You feel irritated with a friend, and your brain tells you it's because they're being inconsiderate. Maybe. Or maybe you're feeling neglected and don't know how to ask for what you need.
 
-You feel restless and dissatisfied, and your brain tells you it's because your life isn't exciting enough, you need a new job, a new city, a new something. Maybe. Or maybe there's a low-grade loneliness or meaninglessness that you haven't looked at directly.
+You feel restless and dissatisfied, and your brain tells you it's because your life isn't exciting enough. You need a new job, a new city, something. Maybe. Or maybe there's a low-grade loneliness you haven't looked at directly.
 
-In each case, the surface explanation isn't necessarily wrong. But it's usually incomplete. And it almost always points outward instead of inward.
+The surface explanation isn't necessarily wrong. But it's almost always incomplete, and it almost always points outward instead of inward.
 
-## What to do about it
+## The gap between feeling and story
 
-I don't think the answer is to distrust every thought you have. That's its own kind of trap. But it helps to slow down when you notice a strong emotional reaction and ask: "Okay, but what am I actually feeling right now? Not what I think about the situation. What is the raw feeling in my body?"
+The practical move is simple: when you notice a strong emotional reaction, pause and ask what you're actually feeling. Not what you think about the situation. What is the raw sensation? Usually there's a gap. The feeling is something plain: tightness, heat, a sinking sensation, a contraction. The story is the elaborate narrative about who's at fault and why.
 
-Usually there's a gap between the feeling and the story. The feeling is something simple: tightness, heat, a sinking sensation, a contraction. The story is the elaborate narrative about who's at fault and why.
+Meditation trains you to notice feelings before the storytelling machine kicks in. You start catching the raw data before it gets processed into a comfortable narrative. And sometimes when you catch it, the real feeling is something you've been carrying around for a long time. Something that has nothing to do with the person who just insulted you or the email that annoyed you. Those were just the trigger. The feeling was already there, waiting for a reason to surface.
 
-Meditation helps with this a lot, honestly. Not because it gives you answers, but because it trains you to notice feelings before the storytelling machine kicks in. You start catching the raw data before it gets processed into a comfortable narrative.
+## The point
 
-And sometimes when you do catch it, the real feeling is something you've been carrying around for a long time. Something that has nothing to do with the person who just insulted you or the email that annoyed you. Those were just the trigger. The feeling was already there, waiting for a reason to surface.
+Most conflicts I've had with people, I can look back and see that my brain was handing me a confident, logical explanation that was at best half the story. The other half was something internal I wasn't ready to see.
 
-## The bigger point
+The brain is always going to narrate. That won't stop. But you can get better at noticing the narration for what it is, and looking underneath. Not to beat yourself up about what you find, but to get more honest about what's actually happening.
 
-Most of the conflicts I've had with people, I can look back and see that my brain was giving me a confident, logical explanation for my reaction that was at best half the story. The other half was something internal that I wasn't ready or able to see.
-
-I don't think this ever fully goes away. The brain is always going to try to narrate. But you can get better at noticing the narration for what it is, and looking underneath it. Not to beat yourself up about what you find. Just to get a little more honest with yourself about what's actually happening.
-
-That honesty is surprisingly hard. And surprisingly useful.
+That honesty is hard. And it's worth it.

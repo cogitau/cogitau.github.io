@@ -1,10 +1,10 @@
 export default function AboutPage() {
   return (
     <div>
-      <h1 className="mb-6 text-2xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
+      <h1 className="mb-10 font-display text-3xl font-light tracking-tight text-foreground">
         About
       </h1>
-      <div className="space-y-4 text-zinc-600 dark:text-zinc-400">
+      <div className="space-y-5 leading-relaxed text-muted">
         <p>
           I&apos;m a software engineer interested in building useful things and
           understanding how the mind works.

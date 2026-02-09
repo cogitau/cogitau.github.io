@@ -10,12 +10,12 @@ const links = [
 
 export function Nav() {
   return (
-    <nav className="flex gap-6 py-6 text-sm">
+    <nav className="flex gap-6 pt-12 pb-8 text-xs uppercase tracking-[0.15em]">
       {links.map(({ href, label }) => (
         <Link
           key={href}
           href={href}
-          className="text-zinc-600 transition-colors hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100"
+          className="text-muted transition-colors hover:text-foreground"
         >
           {label}
         </Link>

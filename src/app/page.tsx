@@ -7,24 +7,24 @@ export default function Home() {
 
   return (
     <div>
-      <section className="mb-12">
-        <h1 className="text-2xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
+      <section className="mb-20">
+        <h1 className="font-display text-5xl font-light tracking-tight text-foreground">
           cogitau
         </h1>
-        <p className="mt-3 text-zinc-600 dark:text-zinc-400">
+        <p className="mt-4 text-lg text-muted">
           Writing, reflection, and open source.
         </p>
       </section>
 
-      <section className="mb-12">
-        <h2 className="mb-4 text-lg font-medium text-zinc-900 dark:text-zinc-100">
+      <section className="mb-16">
+        <h2 className="mb-6 text-xs uppercase tracking-[0.15em] text-muted-foreground">
           Recent posts
         </h2>
         <PostList posts={recentBlog} basePath="/blog" />
       </section>
 
       <section>
-        <h2 className="mb-4 text-lg font-medium text-zinc-900 dark:text-zinc-100">
+        <h2 className="mb-6 text-xs uppercase tracking-[0.15em] text-muted-foreground">
           Recent journal entries
         </h2>
         <PostList posts={recentJournal} basePath="/journal" />

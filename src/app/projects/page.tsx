@@ -4,10 +4,10 @@ import { ProjectCard } from "@/components/project-card";
 export default function ProjectsPage() {
   return (
     <div>
-      <h1 className="mb-6 text-2xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
+      <h1 className="mb-10 font-display text-3xl font-light tracking-tight text-foreground">
         Projects
       </h1>
-      <div className="grid gap-4">
+      <div className="grid gap-6">
         {projects.map((project) => (
           <ProjectCard key={project.name} project={project} />
         ))}

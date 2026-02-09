@@ -6,7 +6,7 @@ export default function JournalPage() {
 
   return (
     <div>
-      <h1 className="mb-6 text-2xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-100">
+      <h1 className="mb-10 font-display text-3xl font-light tracking-tight text-foreground">
         Journal
       </h1>
       <PostList posts={posts} basePath="/journal" />

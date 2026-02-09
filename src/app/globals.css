@@ -24,3 +24,108 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Prose styles for rendered Markdown */
+.prose-custom {
+  line-height: 1.75;
+  color: var(--foreground);
+}
+
+.prose-custom h2 {
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--foreground);
+}
+
+.prose-custom h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+.prose-custom p {
+  margin-bottom: 1.25em;
+}
+
+.prose-custom a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.prose-custom ul,
+.prose-custom ol {
+  margin-bottom: 1.25em;
+  padding-left: 1.5em;
+}
+
+.prose-custom ul {
+  list-style-type: disc;
+}
+
+.prose-custom ol {
+  list-style-type: decimal;
+}
+
+.prose-custom li {
+  margin-bottom: 0.25em;
+}
+
+.prose-custom blockquote {
+  margin: 1.5em 0;
+  padding-left: 1em;
+  border-left: 2px solid #d4d4d8;
+  color: #71717a;
+}
+
+.prose-custom pre {
+  margin: 1.5em 0;
+  padding: 1em;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  font-size: 0.875rem;
+  line-height: 1.6;
+}
+
+.prose-custom :not(pre) > code {
+  padding: 0.15em 0.35em;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+  background: #f4f4f5;
+}
+
+@media (prefers-color-scheme: dark) {
+  .prose-custom blockquote {
+    border-left-color: #3f3f46;
+    color: #a1a1aa;
+  }
+
+  .prose-custom :not(pre) > code {
+    background: #27272a;
+  }
+}
+
+.prose-custom hr {
+  margin: 2em 0;
+  border: none;
+  border-top: 1px solid #e4e4e7;
+}
+
+@media (prefers-color-scheme: dark) {
+  .prose-custom hr {
+    border-top-color: #27272a;
+  }
+}
+
+.prose-custom strong {
+  font-weight: 600;
+}
+
+.prose-custom img {
+  margin: 1.5em 0;
+  border-radius: 0.5rem;
+}

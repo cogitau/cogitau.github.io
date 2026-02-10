@@ -8,4 +8,11 @@ export const projects: Project[] = [
     url: "https://github.com/cogitau/cogitau.github.io",
     tags: ["next.js", "typescript", "tailwind"],
   },
+  {
+    name: "stream-system",
+    description:
+      "Interactive canvas visualization exploring concepts across sensation, cognition, reality, and contemplative domains.",
+    url: "https://github.com/cogitau/stream-system",
+    tags: ["next.js", "typescript", "tailwind", "canvas"],
+  },
 ];

@@ -9,7 +9,7 @@ export default function Home() {
     <div>
       <section className="mb-20">
         <h1 className="font-display text-5xl font-light tracking-tight text-foreground">
-          cogitau
+          bryan
         </h1>
         <p className="mt-4 text-lg text-muted">
           Writing, reflection, and open source.

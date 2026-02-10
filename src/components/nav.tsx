@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const links = [
   { href: "/", label: "Home" },
-  { href: "https://cogitau.github.io/stream-system", label: "Stream System", external: true },
+  { href: "https://cogitau.github.io/stream-system", label: "Explorations", external: true },
   { href: "/blog", label: "Blog" },
   { href: "/journal", label: "Journal" },
   { href: "/projects", label: "Projects" },

@@ -5,19 +5,15 @@ export default function AboutPage() {
         About
       </h1>
       <div className="space-y-5 leading-relaxed text-muted">
+        <p>I&apos;m a software engineer at LinkedIn.</p>
         <p>
-          Software engineer at LinkedIn, mostly thinking about how people find
-          and connect with opportunity. Before that, a lot of time spent
-          studying philosophy and wondering what attention actually is.
+          What I actually care about is experience: how attention moves, how
+          things feel, and what changes when you look closely. I circle those
+          questions through meditation, philosophy, sound, and design.
         </p>
         <p>
-          Away from a screen I gravitate toward contemplative practice, good
-          sound systems, and making rooms feel like somewhere you&apos;d want to
-          stay. These interests overlap more than you&apos;d think.
-        </p>
-        <p>
-          This site is a place to write things down — observations, half-formed
-          ideas, and whatever else seems worth slowing down for.
+          This is a place to leave notes. Some are technical, some
+          aren&apos;t. None of them are finished.
         </p>
       </div>
     </div>
